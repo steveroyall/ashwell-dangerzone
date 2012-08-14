@@ -1,0 +1,24 @@
+/* iPhone */
+
+@media only screen and (max-width: 480px) {
+
+#content{width:auto; padding:1em; margin:0;}
+.home .carousel, .aside, .searchbox, .telephone{display:none; }
+
+.mainContent{ 
+	width:auto; margin:0;
+}
+
+nav{clear:both; margin:.5em 0; width:100%; float:none; background-color: teal;  }
+nav ul {border-top:none; width:100%; padding: 0; margin:.5em 0; }
+nav ul li {float: left; width:48%; margin:0; display:block; padding:0; margin:0 0 .5em 2%;}
+nav ul li a{width: 97%;padding:.5em 1em}
+footer{width:97%;}
+footer div{display:none;}
+
+.ui-tabs .ui-tabs-nav li a {padding: .5em 2em;}
+.content{margin-top:10px}
+.page-template-tabs-php .content{margin-top:45px}
+.ui-tabs .ui-tabs-nav li {top:4px !important;}
+
+}

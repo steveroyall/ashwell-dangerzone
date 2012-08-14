@@ -1,0 +1,12 @@
+/*
+Theme Name: Ashwell Theme
+Description: The Ashwell Landscapes Theme - based on Starkers
+Version: 1.0
+Author: Steve Royall
+*/
+
+@import "css/reset.css";
+@import "css/typography.css";
+@import "css/layout.css";
+@import "css/jquery-ui-custom.css";
+@import "css/mobile.css";

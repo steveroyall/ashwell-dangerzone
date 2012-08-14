@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: eBusiness v3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-03 22:11+0600\n"
+"PO-Revision-Date: 2010-01-03 22:11+0600\n"
+"Last-Translator: Ann <anochka1985@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ eBusiness
+#: 404.php:5
+msgid "Sorry, the page your requested could not be found, or no longer exists."
+msgstr "Sajnáljuk de a kért oldal sajnos nem található vagy nem létezik."
+
+# @ eBusiness
+#: comments.php:9
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Az oldal nem található felesleges újra próbálkozni. Köszönjük!"
+
+# @ eBusiness
+#: comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "A bejegyzés jelszóval védett így csak a jelszó megadása után érhető el."
+
+# @ eBusiness
+#: comments.php:21
+msgid "No Responses"
+msgstr "Hozzászólnál?"
+
+# @ eBusiness
+#: comments.php:21
+msgid "One Response"
+msgstr "Egy hozzászólás"
+
+# @ eBusiness
+#: comments.php:21
+msgid "% Responses"
+msgstr "% Hozzászólás"
+
+# @ eBusiness
+#: comments.php:47
+msgid "Comments are closed."
+msgstr "A hozzászólási lehetőség zárolva."
+
+# @ eBusiness
+#: comments.php:53
+msgid "Leave a Reply"
+msgstr "Nekem is van véleményem..."
+
+# @ eBusiness
+#: comments.php:53
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Válasz a következőre %"
+
+# @ eBusiness
+#: comments.php:59
+msgid "You must be"
+msgstr "Jelentkezz be"
+
+# @ eBusiness
+#: comments.php:59
+msgid "logged in"
+msgstr "itt és most"
+
+# @ eBusiness
+#: comments.php:59
+msgid "to post a comment."
+msgstr "ugrás a hozzászólásokhoz."
+
+# @ eBusiness
+#: comments.php:63
+msgid "Logged in as"
+msgstr "Bejelentkezve mint"
+
+# @ eBusiness
+#: comments.php:63
+msgid "Log out &raquo;"
+msgstr "Kijelentkezek &raquo;"
+
+# @ eBusiness
+#: comments.php:67
+msgid "Name"
+msgstr "Neved"
+
+# @ eBusiness
+#: comments.php:68
+#: comments.php:74
+msgid "(required)"
+msgstr "(szükséges)"
+
+# @ eBusiness
+#: comments.php:73
+msgid "Mail (will not be published)"
+msgstr "e-Mail (Nem publikus... Gravatar kompatibilis...)"
+
+# @ eBusiness
+#: comments.php:79
+msgid "Website"
+msgstr "Weblapod (Ha van...)"
+
+# @ eBusiness
+#: comments.php:87
+msgid "Submit Comment"
+msgstr "Hozzászólok"
+
+# @ eBusiness
+#: footer.php:12
+msgid "Powered by"
+msgstr "Legjobb motorunk"
+
+# @ eBusiness
+#: footer.php:12
+msgid "Designed by"
+msgstr "Legjobb dizájnerünk"
+
+# @ eBusiness
+#: header.php:94
+msgid "Home"
+msgstr "Kezdőoldal"
+
+# @ eBusiness
+#: page-full.php:27
+#: page-full.php:40
+#: page.php:22
+#: page.php:35
+#: single.php:18
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Közvetlen link %"
+
+# @ eBusiness
+#: page-full.php:43
+msgid "Read the rest of this entry &raquo;"
+msgstr "Folytatom és olvasom tovább &raquo;"
+
+# @ eBusiness
+#: page-full.php:56
+msgid "&laquo; Previous Entries"
+msgstr "&laquo; Korábbi bejegyzések"
+
+# @ eBusiness
+#: page-full.php:57
+msgid "Next Entries &raquo;"
+msgstr "Friss bejegyzések &raquo;"
+
+# @ eBusiness
+#: page-full.php:60
+msgid "Not Found"
+msgstr "Sajnos nem található"
+
+# @ eBusiness
+#: page-full.php:61
+msgid "Sorry, but the page you requested could not be found."
+msgstr "A kért oldal nem található, sajnáljuk!"
+
+# @ eBusiness
+#: page.php:53
+#: single.php:43
+msgid "No Results Found"
+msgstr "Sajnos nincs találat!"
+
+# @ eBusiness
+#: page.php:54
+#: single.php:44
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr "A kért oldal nem található. Kérjük pontosítsa a keresést!"
+
+# @ eBusiness
+#: searchform.php:4
+msgid "Search"
+msgstr "Keresés"
+
+# @ eBusiness
+#: single.php:23
+msgid "Posted"
+msgstr "Aki"
+
+# @ eBusiness
+#: single.php:23
+msgid "by"
+msgstr "írta"
+
+# @ eBusiness
+#: single.php:23
+msgid "on"
+msgstr "ekkor"
+
+# @ eBusiness
+#: single.php:23
+msgid "in"
+msgstr " "
+
+# @ eBusiness
+#: single.php:23
+msgid "0 comments"
+msgstr "Hozzászólnál?"
+
+# @ eBusiness
+#: single.php:23
+msgid "1 comment"
+msgstr "Egy hozzászólás"
+
+# @ eBusiness
+#: single.php:23
+msgid "comments"
+msgstr "hozzászólás"
+
+# @ eBusiness
+#: includes/default.php:29
+msgid "From the Blog"
+msgstr "A Blogról"
+
+# @ eBusiness
+#: includes/default.php:50
+msgid "No Comments"
+msgstr "Hozzászólnál?"
+
+# @ eBusiness
+#: includes/default.php:50
+msgid "1 Comment"
+msgstr "1 Hozzászólás"
+
+# @ eBusiness
+#: includes/default.php:50
+msgid "% Comments"
+msgstr "% Hozzászólás"
+
+#: includes/functions/comments.php:12
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr ""
+
+#: includes/functions/comments.php:13
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/functions/comments.php:13
+msgid "(Edit)"
+msgstr ""
+
+#: includes/functions/comments.php:17
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
